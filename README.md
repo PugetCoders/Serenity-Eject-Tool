@@ -1,5 +1,4 @@
 # Serenity-Eject-Tool
 This tool ejects discs from our Serenity systems with slimloaders. 
 
-After downloading both files, run the file copy.bat. That will ensure that Microsoft sees the Eject tool as a legitimate program. 
-You can then delete the copy.bat file and use the eject tool as you please. 
+Simply download the files and you're good to go! The .bat file simply adds a desktop shortcut and can be run and/or deleted without issue. 
